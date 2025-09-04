@@ -1,0 +1,48 @@
+# Gradle
+.gradle/
+local.properties
+
+# IDE
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Build outputs
+/build/
+*/build/
+bin/
+gen/
+out/
+
+# External builds
+.externalNativeBuild/
+.cxx/
+
+# Captures (screenshots / profiler)
+captures/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# App signing (DO NOT commit signing keys)
+*.jks
+*.keystore
+
+# Google services (usually private)
+google-services.json
+
+# Build artifacts
+*.apk
+*.ap_
+*.aab
+
+# Crashlytics (if used)
+crashlytics-build.properties
+
+# Misc
+.navigation/
